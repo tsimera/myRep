@@ -13,6 +13,7 @@ namespace ConsoleApplication1
             ERROR
             
             Console.WriteLine("nesto dodano");
+            Console.WriteLine("Kak si kaj?");
         }
     }
 }
