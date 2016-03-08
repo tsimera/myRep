@@ -11,6 +11,8 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Hello World");
             ERROR
+            
+            Console.WriteLine("nesto dodano");
         }
     }
 }
